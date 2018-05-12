@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34332
     wikipedia: http://en.wikipedia.org/wiki/Katherine_MacLean
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31356#The-Man-Who-Staked-the-Stars
 gutenberg_issued: '2010-02-22'
 gutenberg_type: Text
 identifiers:
